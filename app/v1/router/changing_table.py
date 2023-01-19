@@ -35,5 +35,5 @@ class changing_table:
 
         return {
             'BCV' : bcv + ' Bs',
-            'En Paralelo' : paralelo + ' Bs'
+            'EnParalelo' : paralelo + ' Bs'
         }
