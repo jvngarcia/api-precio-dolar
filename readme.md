@@ -19,3 +19,5 @@ Precio en dólares del bitcoin extraida de la página oficial de CoinMarketCap
 ## Próximas actualizaciones
 
 - Implementación de más monedas virtuales famosas
+- Precio de monedas de otros paises
+- Comparación de zona horaria entre dos países
