@@ -13,7 +13,7 @@ Toma los datos desde la página oficial de EnParaleloVZLA y muestra el precio ta
 Precio en dólares del bitcoin extraida de la página oficial de CoinMarketCap
 
 ```
-{ HOST }/api/v1/price-criptocurrency/btc
+{ HOST }/api/v1/criptocurrency/btc
 ```
 
 ## Próximas actualizaciones
