@@ -6,7 +6,7 @@ import pandas as pd
 router = APIRouter( prefix = "/api/v1/criptocurrency" )
 
 
-class price_criptocurrency:
+class criptocurrency:
     @router.get("/btc")
     def get_btc():
 
